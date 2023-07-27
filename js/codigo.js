@@ -1,6 +1,3 @@
-
-
-
 let nombre =  prompt("Inserta tu nombre completo");
 let edad = prompt("Inserta tu edad");
 let objetivo = prompt("¿Cúal es tu objetvo de ahorro?, eje: Ir a la playa");
